@@ -62,10 +62,5 @@ If you use this code or dataset in your research, please cite our paper:
 
 ---
 
-## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
----
-
 ## Contact
 For any questions or issues, please open an issue on this repository or contact yongcao2018@gmail.com.
