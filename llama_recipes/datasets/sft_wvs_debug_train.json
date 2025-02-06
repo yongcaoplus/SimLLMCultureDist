@@ -1,0 +1,306 @@
+[
+    {
+        "id": "1",
+        "instruction": "How would someone from Andorra answer the following question:\n\n",
+        "input": "For each of the following aspects, indicate how important it is in your life Would you say it is very important, rather important, not very important or not important at all?- Family \nHere are the options: \n",
+        "options": [
+            "(A)Very important",
+            "(B)Rather important",
+            "(C)Not very important",
+            "(D)Not at all important"
+        ],
+        "options_dist": {
+            "A": 89.5418326693227,
+            "B": 9.661354581673306,
+            "C": 0.49800796812749004,
+            "D": 0.29880478087649404
+        },
+        "data_type": "train"
+    },
+    {
+        "id": "2",
+        "instruction": "How would someone from Andorra answer the following question:\n\n",
+        "input": "For each of the following aspects, indicate how important it is in your life Would you say it is very important, rather important, not very important or not important at all? - Friends \nHere are the options: \n",
+        "options": [
+            "(A)Very important",
+            "(B)Rather important",
+            "(C)Not very important",
+            "(D)Not at all important"
+        ],
+        "options_dist": {
+            "A": 54.8804780876494,
+            "B": 37.45019920318725,
+            "C": 6.872509960159362,
+            "D": 0.796812749003984
+        },
+        "data_type": "train"
+    },
+    {
+        "id": "3",
+        "instruction": "How would someone from Andorra answer the following question:\n\n",
+        "input": "For each of the following aspects, indicate how important it is in your life Would you say it is very important, rather important, not very important or not important at all? - Leisure time \nHere are the options: \n",
+        "options": [
+            "(A)Very important",
+            "(B)Rather important",
+            "(C)Not very important",
+            "(D)Not at all important"
+        ],
+        "options_dist": {
+            "A": 62.94820717131474,
+            "B": 32.37051792828685,
+            "C": 4.282868525896414,
+            "D": 0.398406374501992
+        },
+        "data_type": "train"
+    },
+    {
+        "id": "4",
+        "instruction": "How would someone from Andorra answer the following question:\n\n",
+        "input": "For each of the following aspects, indicate how important it is in your life Would you say it is very important, rather important, not very important or not important at all? - Politics \nHere are the options: \n",
+        "options": [
+            "(A)Very important",
+            "(B)Rather important",
+            "(C)Not very important",
+            "(D)Not at all important"
+        ],
+        "options_dist": {
+            "C": 36.92614770459082,
+            "D": 32.43512974051897,
+            "B": 22.85429141716567,
+            "A": 7.784431137724551
+        },
+        "data_type": "train"
+    },
+    {
+        "id": "5",
+        "instruction": "How would someone from Andorra answer the following question:\n\n",
+        "input": "For each of the following aspects, indicate how important it is in your life Would you say it is very important, rather important, not very important or not important at all?- Work \nHere are the options: \n",
+        "options": [
+            "(A)Very important",
+            "(B)Rather important",
+            "(C)Not very important",
+            "(D)Not at all important"
+        ],
+        "options_dist": {
+            "A": 56.986027944111775,
+            "C": 4.39121756487026,
+            "B": 36.02794411177645,
+            "D": 2.5948103792415167
+        },
+        "data_type": "train"
+    },
+    {
+        "id": "6",
+        "instruction": "How would someone from Andorra answer the following question:\n\n",
+        "input": "For each of the following aspects, indicate how important it is in your life. Would you say it is very important, rather important, not very important or not important at all?- Religion \nHere are the options: \n",
+        "options": [
+            "(A)Very important",
+            "(B)Rather important",
+            "(C)Not very important",
+            "(D)Not at all important"
+        ],
+        "options_dist": {
+            "D": 36.72654690618762,
+            "C": 32.53493013972056,
+            "B": 21.25748502994012,
+            "A": 9.481037924151696
+        },
+        "data_type": "train"
+    },
+    {
+        "id": "7",
+        "instruction": "How would someone from Andorra answer the following question:\n\n",
+        "input": "Here is a list of qualities that children can be encouraged to learn at home. Which, if any, do you consider to be especially important? Please choose up to five.- Good manners \nHere are the options: \n",
+        "options": [
+            "(A)Important",
+            "(B)Not mentioned"
+        ],
+        "options_dist": {
+            "A": 84.86055776892431,
+            "B": 15.139442231075698
+        },
+        "data_type": "train"
+    },
+    {
+        "id": "8",
+        "instruction": "How would someone from Andorra answer the following question:\n\n",
+        "input": "Here is a list of qualities that children can be encouraged to learn at home. Which, if any, do you consider to be especially important? Please choose up to five. - Independence \nHere are the options: \n",
+        "options": [
+            "(A)Important",
+            "(B)Not mentioned"
+        ],
+        "options_dist": {
+            "A": 46.81274900398406,
+            "B": 53.18725099601593
+        },
+        "data_type": "train"
+    },
+    {
+        "id": "9",
+        "instruction": "How would someone from Andorra answer the following question:\n\n",
+        "input": "Here is a list of qualities that children can be encouraged to learn at home. Which, if any, do you consider to be especially important? Please choose up to five. - Hard work \nHere are the options: \n",
+        "options": [
+            "(A)Important",
+            "(B)Not mentioned"
+        ],
+        "options_dist": {
+            "B": 55.97609561752988,
+            "A": 44.02390438247012
+        },
+        "data_type": "train"
+    },
+    {
+        "id": "10",
+        "instruction": "How would someone from Andorra answer the following question:\n\n",
+        "input": "Here is a list of qualities that children can be encouraged to learn at home. Which, if any, do you consider to be especially important? Please choose up to five.- Feeling of responsibility \nHere are the options: \n",
+        "options": [
+            "(A)Important",
+            "(B)Not mentioned"
+        ],
+        "options_dist": {
+            "A": 73.60557768924303,
+            "B": 26.394422310756973
+        },
+        "data_type": "train"
+    },
+    {
+        "id": "11",
+        "instruction": "How would someone from Andorra answer the following question:\n\n",
+        "input": "Here is a list of qualities that children can be encouraged to learn at home. Which, if any, do you consider to be especially important? Please choose up to five.- Imagination \nHere are the options: \n",
+        "options": [
+            "(A)Important",
+            "(B)Not mentioned"
+        ],
+        "options_dist": {
+            "A": 30.0796812749004,
+            "B": 69.9203187250996
+        },
+        "data_type": "train"
+    },
+    {
+        "id": "12",
+        "instruction": "How would someone from Andorra answer the following question:\n\n",
+        "input": "Here is a list of qualities that children can be encouraged to learn at home. Which, if any, do you consider to be especially important? Please choose up to five.- Tolerance and respect for other people \nHere are the options: \n",
+        "options": [
+            "(A)Important",
+            "(B)Not mentioned"
+        ],
+        "options_dist": {
+            "B": 30.0796812749004,
+            "A": 69.9203187250996
+        },
+        "data_type": "train"
+    },
+    {
+        "id": "13",
+        "instruction": "How would someone from Andorra answer the following question:\n\n",
+        "input": "Here is a list of qualities that children can be encouraged to learn at home. Which, if any, do you consider to be especially important? Please choose up to five.- Thrift saving money and things \nHere are the options: \n",
+        "options": [
+            "(A)Important",
+            "(B)Not mentioned"
+        ],
+        "options_dist": {
+            "B": 70.91633466135458,
+            "A": 29.08366533864542
+        },
+        "data_type": "train"
+    },
+    {
+        "id": "14",
+        "instruction": "How would someone from Andorra answer the following question:\n\n",
+        "input": "Here is a list of qualities that children can be encouraged to learn at home. Which, if any, do you consider to be especially important? Please choose up to five. - Determination, perseverance \nHere are the options: \n",
+        "options": [
+            "(A)Important",
+            "(B)Not mentioned"
+        ],
+        "options_dist": {
+            "B": 63.645418326693225,
+            "A": 36.354581673306775
+        },
+        "data_type": "train"
+    },
+    {
+        "id": "15",
+        "instruction": "How would someone from Andorra answer the following question:\n\n",
+        "input": "Here is a list of qualities that children can be encouraged to learn at home. Which, if any, do you consider to be especially important? Please choose up to five.- Religious faith \nHere are the options: \n",
+        "options": [
+            "(A)Important",
+            "(B)Not mentioned"
+        ],
+        "options_dist": {
+            "B": 89.64143426294821,
+            "A": 10.358565737051793
+        },
+        "data_type": "train"
+    },
+    {
+        "id": "16",
+        "instruction": "How would someone from Andorra answer the following question:\n\n",
+        "input": "Here is a list of qualities that children can be encouraged to learn at home. Which, if any, do you consider to be especially important? Please choose up to five.- Not being selfish (unselfishness) \nHere are the options: \n",
+        "options": [
+            "(A)Important",
+            "(B)Not mentioned"
+        ],
+        "options_dist": {
+            "B": 57.27091633466136,
+            "A": 42.72908366533865
+        },
+        "data_type": "train"
+    },
+    {
+        "id": "17",
+        "instruction": "How would someone from Andorra answer the following question:\n\n",
+        "input": "Here is a list of qualities that children can be encouraged to learn at home. Which, if any, do you consider to be especially important? Please choose up to five.- Obedience \nHere are the options: \n",
+        "options": [
+            "(A)Important",
+            "(B)Not mentioned"
+        ],
+        "options_dist": {
+            "A": 35.95617529880478,
+            "B": 64.04382470119522
+        },
+        "data_type": "train"
+    },
+    {
+        "id": "18",
+        "instruction": "How would someone from Andorra answer the following question:\n\n",
+        "input": "On this list are various groups of people. Could you please mention any that you would not like to have as neighbors? - Drug addicts \nHere are the options: \n",
+        "options": [
+            "(A)Mentioned",
+            "(B)Not mentioned"
+        ],
+        "options_dist": {
+            "A": 74.9003984063745,
+            "B": 25.099601593625497
+        },
+        "data_type": "train"
+    },
+    {
+        "id": "19",
+        "instruction": "How would someone from Andorra answer the following question:\n\n",
+        "input": "On this list are various groups of people. Could you please mention any that you would not like to have as neighbors? - People of a different race \nHere are the options: \n",
+        "options": [
+            "(A)Mentioned",
+            "(B)Not mentioned"
+        ],
+        "options_dist": {
+            "B": 96.11553784860558,
+            "A": 3.8844621513944224
+        },
+        "data_type": "train"
+    },
+    {
+        "id": "20",
+        "instruction": "How would someone from Andorra answer the following question:\n\n",
+        "input": "On this list are various groups of people. Could you please mention any that you would not like to have as neighbors? - People who have AIDS \nHere are the options: \n",
+        "options": [
+            "(A)Mentioned",
+            "(B)Not mentioned"
+        ],
+        "options_dist": {
+            "A": 11.354581673306772,
+            "B": 88.64541832669323
+        },
+        "data_type": "train"
+    }
+]

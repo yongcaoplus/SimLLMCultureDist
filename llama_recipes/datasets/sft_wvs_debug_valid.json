@@ -1,0 +1,190 @@
+[
+    {
+        "id": "164",
+        "instruction": "How would someone from Andorra answer the following question:\n\n",
+        "input": "How important is God in your life? Please use this scale to indicate. 10 means 'very important' and 1 means 'not at all important.' \nHere are the options: \n",
+        "options": [
+            "(A)Not at all important",
+            "(B)2",
+            "(C)3",
+            "(D)4",
+            "(E)5",
+            "(F)6",
+            "(G)7",
+            "(H)8",
+            "(I)9",
+            "(J)Very important"
+        ],
+        "options_dist": {
+            "G": 8.132530120481928,
+            "A": 25.502008032128515,
+            "H": 10.240963855421686,
+            "D": 5.321285140562249,
+            "C": 7.530120481927711,
+            "E": 11.947791164658634,
+            "J": 10.341365461847388,
+            "F": 5.72289156626506,
+            "B": 9.538152610441768,
+            "I": 5.72289156626506
+        },
+        "data_type": "valid"
+    },
+    {
+        "id": "165",
+        "instruction": "How would someone from Andorra answer the following question:\n\n",
+        "input": "In which of the _ following things do you believe, if you believe in any? - God \nHere are the options: \n",
+        "options": [
+            "(A)Yes",
+            "(B)No"
+        ],
+        "options_dist": {
+            "A": 64.1,
+            "B": 35.9
+        },
+        "data_type": "valid"
+    },
+    {
+        "id": "166",
+        "instruction": "How would someone from Andorra answer the following question:\n\n",
+        "input": "In which of the _ following things do you believe, if you believe in any? - Life after death \nHere are the options: \n",
+        "options": [
+            "(A)Yes",
+            "(B)No"
+        ],
+        "options_dist": {
+            "A": 45.0050454086781,
+            "B": 54.9949545913219
+        },
+        "data_type": "valid"
+    },
+    {
+        "id": "167",
+        "instruction": "How would someone from Andorra answer the following question:\n\n",
+        "input": "In which of the _ following things do you believe, if you believe in any? - Hell \nHere are the options: \n",
+        "options": [
+            "(A)Yes",
+            "(B)No"
+        ],
+        "options_dist": {
+            "B": 73.21248741188319,
+            "A": 26.78751258811682
+        },
+        "data_type": "valid"
+    },
+    {
+        "id": "168",
+        "instruction": "How would someone from Andorra answer the following question:\n\n",
+        "input": "In which of the _ following things do you believe, if you believe in any? - Heaven \nHere are the options: \n",
+        "options": [
+            "(A)Yes",
+            "(B)No"
+        ],
+        "options_dist": {
+            "A": 32.796780684104625,
+            "B": 67.20321931589537
+        },
+        "data_type": "valid"
+    },
+    {
+        "id": "169",
+        "instruction": "How would someone from Andorra answer the following question:\n\n",
+        "input": "Please tell us if you strongly agree, agree, disagree, or strongly disagree with the following statements? Whenever science and religion conflict, religion is always right \nHere are the options: \n",
+        "options": [
+            "(A)Strongly agree",
+            "(B)Agree",
+            "(C)Disagree",
+            "(D)Strongly disagree"
+        ],
+        "options_dist": {
+            "C": 44.36619718309859,
+            "A": 4.325955734406438,
+            "D": 43.66197183098591,
+            "B": 7.645875251509055
+        },
+        "data_type": "valid"
+    },
+    {
+        "id": "170",
+        "instruction": "How would someone from Andorra answer the following question:\n\n",
+        "input": "Please tell us if you strongly agree, agree, disagree, or strongly disagree with the following statements? The only acceptable religion is my religion \nHere are the options: \n",
+        "options": [
+            "(A)Strongly agree",
+            "(B)Agree",
+            "(C)Disagree",
+            "(D)Strongly disagree"
+        ],
+        "options_dist": {
+            "A": 8.53413654618474,
+            "C": 36.847389558232926,
+            "D": 48.29317269076305,
+            "B": 6.325301204819277
+        },
+        "data_type": "valid"
+    },
+    {
+        "id": "171",
+        "instruction": "How would someone from Andorra answer the following question:\n\n",
+        "input": "Apart from weddings, funerals and christenings, about how often do you attend religious services these days? \nHere are the options: \n",
+        "options": [
+            "(A)More than once a week",
+            "(B)Once a week",
+            "(C)Once a month",
+            "(D)Only on special holy days",
+            "(E)Once a year",
+            "(F)Less often",
+            "(G)Never, practically never"
+        ],
+        "options_dist": {
+            "G": 58.58283433133733,
+            "C": 8.08383233532934,
+            "F": 10.878243512974052,
+            "B": 6.187624750499002,
+            "D": 9.980039920159681,
+            "E": 4.491017964071856,
+            "A": 1.7964071856287425
+        },
+        "data_type": "valid"
+    },
+    {
+        "id": "172",
+        "instruction": "How would someone from Andorra answer the following question:\n\n",
+        "input": "Apart from weddings and funerals, about how often do you pray? \nHere are the options: \n",
+        "options": [
+            "(A)Several times a day",
+            "(B)Once a day",
+            "(C)Several times each week",
+            "(D)Only when attending religious services",
+            "(E)Only on special holy days",
+            "(F)Once a year",
+            "(G)Less often",
+            "(H)Never, practically never"
+        ],
+        "options_dist": {
+            "F": 2.19560878243513,
+            "H": 48.70259481037924,
+            "B": 12.275449101796406,
+            "E": 2.095808383233533,
+            "G": 13.373253493013973,
+            "D": 6.087824351297405,
+            "C": 10.878243512974052,
+            "A": 4.39121756487026
+        },
+        "data_type": "valid"
+    },
+    {
+        "id": "173",
+        "instruction": "How would someone from Andorra answer the following question:\n\n",
+        "input": "Independently of whether you go to church or not, would you say you are... \nHere are the options: \n",
+        "options": [
+            "(A)A religious person",
+            "(B)Not a religious person",
+            "(C)An atheist"
+        ],
+        "options_dist": {
+            "A": 45.06480558325025,
+            "B": 39.68095712861416,
+            "C": 15.254237288135593
+        },
+        "data_type": "valid"
+    }
+]

@@ -1,0 +1,394 @@
+{
+    "en": [
+        {
+            "id": 0,
+            "intro_text": "MFQ_H_EMOTIONALLY",
+            "question": "Part 1. When you decide whether something is right or wrong, to what extent are the following considerations relevant to your thinking? Whether or not someone suffered emotionally . Please rate each statement using this scale:",
+            "answers": [
+                "0: not at all relevant (This consideration has nothing to do with my judgments of right and wrong)",
+                "1: not very relevant",
+                "2: slightly relevant",
+                "3: somewhat relevant",
+                "4: very relevant",
+                "5: extremely relevant (This is one of the most important factors when I judge right and wrong)"
+            ]
+        },
+        {
+            "id": 1,
+            "intro_text": "MFQ_F_TREATED",
+            "question": "Part 1. When you decide whether something is right or wrong, to what extent are the following considerations relevant to your thinking? Whether or not some people were treated differently from others. Please rate each statement using this scale:",
+            "answers": [
+                "0: not at all relevant (This consideration has nothing to do with my judgments of right and wrong)",
+                "1: not very relevant",
+                "2: slightly relevant",
+                "3: somewhat relevant",
+                "4: very relevant",
+                "5: extremely relevant (This is one of the most important factors when I judge right and wrong)"
+            ]
+        },
+        {
+            "id": 2,
+            "intro_text": "MFQ_I_LOVECOUNTRY",
+            "question": "Part 1. When you decide whether something is right or wrong, to what extent are the following considerations relevant to your thinking? Whether or not someone\u2019s action showed love for his or her country. Please rate each statement using this scale:",
+            "answers": [
+                "0: not at all relevant (This consideration has nothing to do with my judgments of right and wrong)",
+                "1: not very relevant",
+                "2: slightly relevant",
+                "3: somewhat relevant",
+                "4: very relevant",
+                "5: extremely relevant (This is one of the most important factors when I judge right and wrong)"
+            ]
+        },
+        {
+            "id": 3,
+            "intro_text": "MFQ_A_RESPECT",
+            "question": "Part 1. When you decide whether something is right or wrong, to what extent are the following considerations relevant to your thinking? Whether or not someone showed a lack of respect for authority . Please rate each statement using this scale:",
+            "answers": [
+                "0: not at all relevant (This consideration has nothing to do with my judgments of right and wrong)",
+                "1: not very relevant",
+                "2: slightly relevant",
+                "3: somewhat relevant",
+                "4: very relevant",
+                "5: extremely relevant (This is one of the most important factors when I judge right and wrong)"
+            ]
+        },
+        {
+            "id": 4,
+            "intro_text": "MFQ_P_DECENCY",
+            "question": "Part 1. When you decide whether something is right or wrong, to what extent are the following considerations relevant to your thinking? Whether or not someone violated standards of purity and decency. Please rate each statement using this scale:",
+            "answers": [
+                "0: not at all relevant (This consideration has nothing to do with my judgments of right and wrong)",
+                "1: not very relevant",
+                "2: slightly relevant",
+                "3: somewhat relevant",
+                "4: very relevant",
+                "5: extremely relevant (This is one of the most important factors when I judge right and wrong)"
+            ]
+        },
+        {
+            "id": 6,
+            "intro_text": "MFQ_H_WEAK",
+            "question": "Part 1. When you decide whether something is right or wrong, to what extent are the following considerations relevant to your thinking? Whether or not someone cared for someone weak or vulnerable. Please rate each statement using this scale:",
+            "answers": [
+                "0: not at all relevant (This consideration has nothing to do with my judgments of right and wrong)",
+                "1: not very relevant",
+                "2: slightly relevant",
+                "3: somewhat relevant",
+                "4: very relevant",
+                "5: extremely relevant (This is one of the most important factors when I judge right and wrong)"
+            ]
+        },
+        {
+            "id": 7,
+            "intro_text": "MFQ_F_UNFAIRLY",
+            "question": "Part 1. When you decide whether something is right or wrong, to what extent are the following considerations relevant to your thinking? Whether or not someone acted unfairly. Please rate each statement using this scale:",
+            "answers": [
+                "0: not at all relevant (This consideration has nothing to do with my judgments of right and wrong)",
+                "1: not very relevant",
+                "2: slightly relevant",
+                "3: somewhat relevant",
+                "4: very relevant",
+                "5: extremely relevant (This is one of the most important factors when I judge right and wrong)"
+            ]
+        },
+        {
+            "id": 8,
+            "intro_text": "MFQ_I_BETRAY",
+            "question": "Part 1. When you decide whether something is right or wrong, to what extent are the following considerations relevant to your thinking? Whether or not someone did something to betray his or her group. Please rate each statement using this scale:",
+            "answers": [
+                "0: not at all relevant (This consideration has nothing to do with my judgments of right and wrong)",
+                "1: not very relevant",
+                "2: slightly relevant",
+                "3: somewhat relevant",
+                "4: very relevant",
+                "5: extremely relevant (This is one of the most important factors when I judge right and wrong)"
+            ]
+        },
+        {
+            "id": 9,
+            "intro_text": "MFQ_A_TRADITIONS",
+            "question": "Part 1. When you decide whether something is right or wrong, to what extent are the following considerations relevant to your thinking? Whether or not someone conformed to the traditions of society . Please rate each statement using this scale:",
+            "answers": [
+                "0: not at all relevant (This consideration has nothing to do with my judgments of right and wrong)",
+                "1: not very relevant",
+                "2: slightly relevant",
+                "3: somewhat relevant",
+                "4: very relevant",
+                "5: extremely relevant (This is one of the most important factors when I judge right and wrong)"
+            ]
+        },
+        {
+            "id": 10,
+            "intro_text": "MFQ_P_DISGUSTING",
+            "question": "Part 1. When you decide whether something is right or wrong, to what extent are the following considerations relevant to your thinking? Whether or not someone did something disgusting. Please rate each statement using this scale:",
+            "answers": [
+                "0: not at all relevant (This consideration has nothing to do with my judgments of right and wrong)",
+                "1: not very relevant",
+                "2: slightly relevant",
+                "3: somewhat relevant",
+                "4: very relevant",
+                "5: extremely relevant (This is one of the most important factors when I judge right and wrong)"
+            ]
+        },
+        {
+            "id": 11,
+            "intro_text": "MFQ_H_CRUEL",
+            "question": "Part 1. When you decide whether something is right or wrong, to what extent are the following considerations relevant to your thinking? Whether or not someone was cruel. Please rate each statement using this scale:",
+            "answers": [
+                "0: not at all relevant (This consideration has nothing to do with my judgments of right and wrong)",
+                "1: not very relevant",
+                "2: slightly relevant",
+                "3: somewhat relevant",
+                "4: very relevant",
+                "5: extremely relevant (This is one of the most important factors when I judge right and wrong)"
+            ]
+        },
+        {
+            "id": 12,
+            "intro_text": "MFQ_F_RIGHTS",
+            "question": "Part 1. When you decide whether something is right or wrong, to what extent are the following considerations relevant to your thinking? Whether or not someone was denied his or her rights. Please rate each statement using this scale:",
+            "answers": [
+                "0: not at all relevant (This consideration has nothing to do with my judgments of right and wrong)",
+                "1: not very relevant",
+                "2: slightly relevant",
+                "3: somewhat relevant",
+                "4: very relevant",
+                "5: extremely relevant (This is one of the most important factors when I judge right and wrong)"
+            ]
+        },
+        {
+            "id": 13,
+            "intro_text": "MFQ_I_LOYALTY",
+            "question": "Part 1. When you decide whether something is right or wrong, to what extent are the following considerations relevant to your thinking? Whether or not someone showed a lack of loyalty. Please rate each statement using this scale:",
+            "answers": [
+                "0: not at all relevant (This consideration has nothing to do with my judgments of right and wrong)",
+                "1: not very relevant",
+                "2: slightly relevant",
+                "3: somewhat relevant",
+                "4: very relevant",
+                "5: extremely relevant (This is one of the most important factors when I judge right and wrong)"
+            ]
+        },
+        {
+            "id": 14,
+            "intro_text": "MFQ_A_CHAOS",
+            "question": "Part 1. When you decide whether something is right or wrong, to what extent are the following considerations relevant to your thinking? Whether or not an action caused chaos or disorder. Please rate each statement using this scale:",
+            "answers": [
+                "0: not at all relevant (This consideration has nothing to do with my judgments of right and wrong)",
+                "1: not very relevant",
+                "2: slightly relevant",
+                "3: somewhat relevant",
+                "4: very relevant",
+                "5: extremely relevant (This is one of the most important factors when I judge right and wrong)"
+            ]
+        },
+        {
+            "id": 15,
+            "intro_text": "MFQ_P_GOD",
+            "question": "Part 1. When you decide whether something is right or wrong, to what extent are the following considerations relevant to your thinking? Whether or not someone acted in a way that God would approve of. Please rate each statement using this scale:",
+            "answers": [
+                "0: not at all relevant (This consideration has nothing to do with my judgments of right and wrong)",
+                "1: not very relevant",
+                "2: slightly relevant",
+                "3: somewhat relevant",
+                "4: very relevant",
+                "5: extremely relevant (This is one of the most important factors when I judge right and wrong)"
+            ]
+        },
+        {
+            "id": 16,
+            "intro_text": "MFQ_H_COMPASSION",
+            "question": "Part 2. Please read the following sentences and indicate your agreement or disagreement: Compassion for those who are suffering is the most crucial virtue.",
+            "answers": [
+                "0: strongly disagree",
+                "1: moderately disagree",
+                "2: slightly disagree",
+                "3: slightly agree",
+                "4: moderately agree",
+                "5: strongly agree"
+            ]
+        },
+        {
+            "id": 17,
+            "intro_text": "MFQ_F_FAIRLY",
+            "question": "Part 2. Please read the following sentences and indicate your agreement or disagreement: When the government makes laws, the number one principle should be ensuring that everyone is treated fairly.",
+            "answers": [
+                "0: strongly disagree",
+                "1: moderately disagree",
+                "2: slightly disagree",
+                "3: slightly agree",
+                "4: moderately agree",
+                "5: strongly agree"
+            ]
+        },
+        {
+            "id": 18,
+            "intro_text": "MFQ_I_HISTORY",
+            "question": "Part 2. Please read the following sentences and indicate your agreement or disagreement: I am proud of my country\u2019s history.",
+            "answers": [
+                "0: strongly disagree",
+                "1: moderately disagree",
+                "2: slightly disagree",
+                "3: slightly agree",
+                "4: moderately agree",
+                "5: strongly agree"
+            ]
+        },
+        {
+            "id": 19,
+            "intro_text": "MFQ_A_KIDRESPECT",
+            "question": "Part 2. Please read the following sentences and indicate your agreement or disagreement: Respect for authority is something all children need to learn.",
+            "answers": [
+                "0: strongly disagree",
+                "1: moderately disagree",
+                "2: slightly disagree",
+                "3: slightly agree",
+                "4: moderately agree",
+                "5: strongly agree"
+            ]
+        },
+        {
+            "id": 20,
+            "intro_text": "MFQ_P_HARMLESSDG",
+            "question": "Part 2. Please read the following sentences and indicate your agreement or disagreement: People should not do things that are disgusting, even if no one is harmed. ",
+            "answers": [
+                "0: strongly disagree",
+                "1: moderately disagree",
+                "2: slightly disagree",
+                "3: slightly agree",
+                "4: moderately agree",
+                "5: strongly agree"
+            ]
+        },
+        {
+            "id": 22,
+            "intro_text": "MFQ_H_ANIMAL",
+            "question": "Part 2. Please read the following sentences and indicate your agreement or disagreement: One of the worst things a person could do is hurt a defenseless animal.",
+            "answers": [
+                "0: strongly disagree",
+                "1: moderately disagree",
+                "2: slightly disagree",
+                "3: slightly agree",
+                "4: moderately agree",
+                "5: strongly agree"
+            ]
+        },
+        {
+            "id": 23,
+            "intro_text": "MFQ_F_JUSTICE",
+            "question": "Part 2. Please read the following sentences and indicate your agreement or disagreement: Justice is the most important requirement for a society.",
+            "answers": [
+                "0: strongly disagree",
+                "1: moderately disagree",
+                "2: slightly disagree",
+                "3: slightly agree",
+                "4: moderately agree",
+                "5: strongly agree"
+            ]
+        },
+        {
+            "id": 24,
+            "intro_text": "MFQ_I_FAMILY",
+            "question": "Part 2. Please read the following sentences and indicate your agreement or disagreement: People should be loyal to their family members, even when they have done something wrong.  ",
+            "answers": [
+                "0: strongly disagree",
+                "1: moderately disagree",
+                "2: slightly disagree",
+                "3: slightly agree",
+                "4: moderately agree",
+                "5: strongly agree"
+            ]
+        },
+        {
+            "id": 25,
+            "intro_text": "MFQ_A_SEXROLES",
+            "question": "Part 2. Please read the following sentences and indicate your agreement or disagreement: Men and women each have different roles to play in society.",
+            "answers": [
+                "0: strongly disagree",
+                "1: moderately disagree",
+                "2: slightly disagree",
+                "3: slightly agree",
+                "4: moderately agree",
+                "5: strongly agree"
+            ]
+        },
+        {
+            "id": 26,
+            "intro_text": "MFQ_P_UNNATURAL",
+            "question": "Part 2. Please read the following sentences and indicate your agreement or disagreement: I would call some acts wrong on the grounds that they are unnatural.",
+            "answers": [
+                "0: strongly disagree",
+                "1: moderately disagree",
+                "2: slightly disagree",
+                "3: slightly agree",
+                "4: moderately agree",
+                "5: strongly agree"
+            ]
+        },
+        {
+            "id": 27,
+            "intro_text": "MFQ_H_KILL",
+            "question": "Part 2. Please read the following sentences and indicate your agreement or disagreement: It can never be right to kill a human being.",
+            "answers": [
+                "0: strongly disagree",
+                "1: moderately disagree",
+                "2: slightly disagree",
+                "3: slightly agree",
+                "4: moderately agree",
+                "5: strongly agree"
+            ]
+        },
+        {
+            "id": 28,
+            "intro_text": "MFQ_F_RICH",
+            "question": "Part 2. Please read the following sentences and indicate your agreement or disagreement: I think it\u2019s morally wrong that rich children inherit a lot of money while poor children inherit nothing.",
+            "answers": [
+                "0: strongly disagree",
+                "1: moderately disagree",
+                "2: slightly disagree",
+                "3: slightly agree",
+                "4: moderately agree",
+                "5: strongly agree"
+            ]
+        },
+        {
+            "id": 29,
+            "intro_text": "MFQ_I_TEAM",
+            "question": "Part 2. Please read the following sentences and indicate your agreement or disagreement: It is more important to be a team player than to express oneself.",
+            "answers": [
+                "0: strongly disagree",
+                "1: moderately disagree",
+                "2: slightly disagree",
+                "3: slightly agree",
+                "4: moderately agree",
+                "5: strongly agree"
+            ]
+        },
+        {
+            "id": 30,
+            "intro_text": "MFQ_A_SOLDIER",
+            "question": "Part 2. Please read the following sentences and indicate your agreement or disagreement: If I were a soldier and disagreed with my commanding officer\u2019s orders, I would obey anyway because that is my duty.",
+            "answers": [
+                "0: strongly disagree",
+                "1: moderately disagree",
+                "2: slightly disagree",
+                "3: slightly agree",
+                "4: moderately agree",
+                "5: strongly agree"
+            ]
+        },
+        {
+            "id": 31,
+            "intro_text": "MFQ_P_CHASTITY",
+            "question": "Part 2. Please read the following sentences and indicate your agreement or disagreement: Chastity is an important and valuable virtue.",
+            "answers": [
+                "0: strongly disagree",
+                "1: moderately disagree",
+                "2: slightly disagree",
+                "3: slightly agree",
+                "4: moderately agree",
+                "5: strongly agree"
+            ]
+        }
+    ]
+}
